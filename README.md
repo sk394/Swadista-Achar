@@ -1,4 +1,7 @@
-![EcommerceApp](https://th.bing.com/th/id/OIP.xkxmy5qZnD1ndpnopOd1awHaGM?pid=ImgDet&rs=1)
+[Demo Video]![Animation](https://github.com/sk394/Swadista-Achar/assets/99689849/eed9b5c7-6b93-49c9-8670-8b39df9e08e6)
+
+
+
 # Welcome to Swadista Achar!
 
 This is the md file for the idea project called **Swadista Achar** which is built using React, libraries and node js using Express framework.
