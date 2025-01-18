@@ -1,4 +1,4 @@
-[Demo Video]![Animation](https://github.com/sk394/Swadista-Achar/assets/99689849/eed9b5c7-6b93-49c9-8670-8b39df9e08e6)
+![Animation](https://github.com/sk394/Swadista-Achar/assets/99689849/eed9b5c7-6b93-49c9-8670-8b39df9e08e6)
 
 
 
