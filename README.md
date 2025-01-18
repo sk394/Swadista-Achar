@@ -2,9 +2,9 @@
 
 
 
-# Welcome to Swadista Achar!
+# Swadista Achar!
 
-This is the md file for the idea project called **Swadista Achar** which is built using React, libraries and node js using Express framework.
+Webapp built using React, to sell pickle. 
 
 # Getting Started with Create React App for EcommerceApp
 
